@@ -16,7 +16,7 @@ This project exemplifies a scalable and efficient approach to managing student i
 
 # **Getting Started**
 1.Clone the repository:
-  [git clone https://github.com/your-username/student-data-operations-system.git](https://github.com/Prathamesh-hp/Student-Databse-Management-System-.git)
+  https://github.com/Prathamesh-hp/Student-Databse-Management-System-.git
 
 
 2.Set up the environment:
