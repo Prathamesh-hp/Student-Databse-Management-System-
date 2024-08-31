@@ -1,5 +1,5 @@
 # Student-Databse-Management-System-
-<b>Student Data Operations Project<b><br>
+Student Data Operations Project
 The Student Data Operations project is a robust, backend-focused web application designed for managing student information efficiently. Built using Java technologies, specifically JSP (JavaServer Pages) and Servlets, this system supports comprehensive CRUD (Create, Read, Update, Delete) operations on student data stored in a relational database.
 
 Key Features
@@ -12,3 +12,4 @@ Java Server Pages (JSP)
 Servlets
 JDBC (Java Database Connectivity)
 This project exemplifies a scalable and efficient approach to managing student information, leveraging the power of Java for a seamless and dynamic web-based solution.
+
